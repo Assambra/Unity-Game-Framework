@@ -8,6 +8,7 @@
 ### Packages: Unity Registery
  - Visual Studio Editor v2.0.16 *
  - Unity UI v1.0.0
+ - TextMeshPro 3.0.6
 
 ### Packages: My Assets
  - None
