@@ -76,3 +76,7 @@ crashlytics-build.properties
 
 # TextMesh Pro
 Assets/TextMesh Pro/
+
+# Ignore Demo Folder from our Modules / Asset Packs
+Assets/Assambra/Demo/
+Assets/Assambra/Demo.meta

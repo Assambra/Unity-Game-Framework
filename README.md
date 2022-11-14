@@ -33,6 +33,7 @@
 <details>
     <summary>Table of Contents</summary>
     <ol>
+        <li><a href="#demo-image">Demo Image</a></li>
         <li>
             <a href="#about-the-project">About The Project</a>
             <ul>
@@ -40,14 +41,18 @@
             </ul>
         </li>
         <li><a href="#modules">Modules</a></li>
+        <li><a href="#be-a-gentlemen">Be a Gentlemen</a></li>
     </ol>
 </details>
 <br />
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- Demo Image-->
+## Demo Image
 ![Our Demo Scene][product-screenshot]
 <br />
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
 The idea behind the Unity Game Framework is to provide individual reusable modules for Unity. The individual modules each have only one task, should fit seamlessly together and if possible work individually. If this is not possible, a dependency is stored in the module itself that further modules are required. The modules are each individual repositories and have the prefix Module-.
 <br />
 <br />
@@ -71,6 +76,10 @@ Important: If you want to contribute to this project. Fork, pull requests and is
     <li><a href="https://github.com/Assambra/Module-GameManager">GameManager</a></li>
 </ul>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Be a Gentlemen-->
+## Be a Gentlemen
+<-- Get Code --> Give Code, if you able to do that.
 
 [contributors-shield]: https://img.shields.io/github/contributors/Assambra/Unity-Game-Framework.svg?style=for-the-badge
 [contributors-url]: https://github.com/Assambra/Unity-Game-Framework/graphs/contributors
