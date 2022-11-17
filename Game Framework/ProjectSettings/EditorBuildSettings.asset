@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/YourGame/Scenes/Start.unity
+    guid: 7beb7da10a6e77241819540649c059b1
+  - enabled: 1
+    path: Assets/YourGame/Scenes/Login.unity
+    guid: e916104600ea47247a788e49a69940ac
+  - enabled: 1
+    path: Assets/YourGame/Scenes/CreateAccount.unity
+    guid: c5ee8cc15ed230944815bc3929cde506
+  - enabled: 1
+    path: Assets/YourGame/Scenes/CharacterSelection.unity
+    guid: f73da2719a7a63f49939756f303273cb
+  - enabled: 1
+    path: Assets/YourGame/Scenes/CharacterCreation.unity
+    guid: f48ca957bc74c39459a6c521c4f0b8a0
+  - enabled: 1
+    path: Assets/YourGame/Scenes/BeginnerArea.unity
+    guid: caabd950557caa541b4e3619db1036b8
+  - enabled: 1
+    path: Assets/YourGame/Scenes/World.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
