@@ -35,7 +35,7 @@
     <ol>
         <li><a href="#demo-image">Demo Image</a></li>
         <li>
-            <a href="#the-unity-game-framework">About The Project</a>
+            <a href="#the-unity-game-framework">The Unity Game Framework</a>
             <ul>
                 <li><a href="#built-with">Built With</a></li>
             </ul>
@@ -74,6 +74,8 @@ Important: If you want to contribute to this project. Fork, pull requests and is
 ## Modules
 <ul>
     <li><a href="https://github.com/Assambra/Module-GameManager">GameManager</a></li>
+    <li><a href="https://github.com/Assambra/Module-SceneHandler">SceneHandler</a></li>
+    <li><a href="https://github.com/Assambra/Module-UIHandler">UIHandler</a></li>
 </ul>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
