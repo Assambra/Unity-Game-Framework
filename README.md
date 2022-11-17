@@ -43,6 +43,7 @@
         <li><a href="#currently-installed-modules">Currently Installed Modules</a></li>
         <li><a href="#available-modules">Available Modules</a></li>
         <li><a href="#be-a-gentlemen">Be a Gentlemen</a></li>
+        <li><a href="#contact">Contact</a></li>
     </ol>
 </details>
 <br />
@@ -74,9 +75,9 @@ Important: If you want to contribute to this project. Fork, pull requests and is
 <!-- CURRENTLY INSTALLED MODULES -->
 ## Currently Installed Modules
 <a href="https://github.com/Assambra/Unity-Game-Framework/blob/main/Game%20Framework/Assets/YourGame/Modules.md">Installed Unity Game Framework Modules</a>
-<!-- AVAILABLE MODULES -->
-<br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AVAILABLE MODULES -->
 ## Available Modules
 <ul>
     <li><a href="https://github.com/Assambra/Module-GameManager">GameManager</a></li>
@@ -85,9 +86,14 @@ Important: If you want to contribute to this project. Fork, pull requests and is
 </ul>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- Be a Gentlemen-->
+<!-- BE A GENTLEMEN-->
 ## Be a Gentlemen
 <-- Get Code --> Give Code, if you able to do that.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Contact -->
+## Contact
+Join us on <a href="https://discord.gg/qyCdkYSWVG">Discord</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Assambra/Unity-Game-Framework.svg?style=for-the-badge
