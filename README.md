@@ -14,7 +14,7 @@
   <h1 align="center">Unity Game Framework</h1>
 
   <p align="center">
-    The idea behind the Unity Game Framework is to provide individual reusable modules for Unity. The individual modules each have only one task, should fit seamlessly together. <a href="#about-the-project">Read more »</a>
+    The idea behind the Unity Game Framework is to provide individual reusable modules for Unity. The individual modules each have only one task, should fit seamlessly together. <a href="#the-unity-game-framework">Read more »</a>
     <br />
     <br />
     <a href="https://github.com/Assambra/Unity-Game-Framework/wiki"><strong>Explore the docs »</strong></a>
@@ -40,7 +40,8 @@
                 <li><a href="#built-with">Built With</a></li>
             </ul>
         </li>
-        <li><a href="#modules">Modules</a></li>
+        <li><a href="#currently-installed-modules">Currently Installed Modules</a></li>
+        <li><a href="#available-modules">Available Modules</a></li>
         <li><a href="#be-a-gentlemen">Be a Gentlemen</a></li>
     </ol>
 </details>
@@ -70,8 +71,13 @@ Important: If you want to contribute to this project. Fork, pull requests and is
 [![Unity][Unity.com]][Unity-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- OUR MODULES -->
-## Modules
+<!-- CURRENTLY INSTALLED MODULES -->
+## Currently Installed Modules
+<a href="https://github.com/Assambra/Unity-Game-Framework/blob/main/Game%20Framework/Assets/YourGame/Modules.md">Installed Unity Game Framework Modules</a>
+<!-- AVAILABLE MODULES -->
+<br />
+
+## Available Modules
 <ul>
     <li><a href="https://github.com/Assambra/Module-GameManager">GameManager</a></li>
     <li><a href="https://github.com/Assambra/Module-SceneHandler">SceneHandler</a></li>
