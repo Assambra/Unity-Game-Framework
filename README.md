@@ -81,6 +81,7 @@ Important: If you want to contribute to this project. Fork, pull requests and is
 ## Available Modules
 <ul>
     <li><a href="https://github.com/Assambra/Module-GameManager">GameManager</a></li>
+    <li><a href="https://github.com/Assambra/Module-MouseHandler">MouseHandler</a></li>
 </ul>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
