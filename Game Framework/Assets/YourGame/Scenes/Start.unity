@@ -794,6 +794,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: MouseHandler
       objectReference: {fileID: 0}
+    - target: {fileID: 1398808900742428502, guid: 74aa383cffc30aa4ebab52a6d35e9a68, type: 3}
+      propertyPath: eventSystem
+      value: 
+      objectReference: {fileID: 557482154}
+    - target: {fileID: 1398808900742428502, guid: 74aa383cffc30aa4ebab52a6d35e9a68, type: 3}
+      propertyPath: graphicRaycaster
+      value: 
+      objectReference: {fileID: 1688834909}
     - target: {fileID: 1398808900742428503, guid: 74aa383cffc30aa4ebab52a6d35e9a68, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -956,6 +964,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 5564140046577882702, guid: 697389ec9f47fba498875310523e2799, type: 3}
   m_PrefabInstance: {fileID: 1688834906}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1688834909 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5564140046577882703, guid: 697389ec9f47fba498875310523e2799, type: 3}
+  m_PrefabInstance: {fileID: 1688834906}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1823887242
 PrefabInstance:
   m_ObjectHideFlags: 0
