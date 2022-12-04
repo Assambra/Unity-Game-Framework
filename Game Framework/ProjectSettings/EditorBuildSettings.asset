@@ -6,20 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/YourGame/Scenes/Start.unity
-    guid: 7beb7da10a6e77241819540649c059b1
+    path: Assets/YourGame/Scenes/Persistent.unity
+    guid: 8d833ba4f8834c5408500f71c1e3eaf3
   - enabled: 1
-    path: Assets/YourGame/Scenes/Login.unity
-    guid: e916104600ea47247a788e49a69940ac
-  - enabled: 1
-    path: Assets/YourGame/Scenes/CreateAccount.unity
-    guid: c5ee8cc15ed230944815bc3929cde506
-  - enabled: 1
-    path: Assets/YourGame/Scenes/CharacterSelection.unity
-    guid: f73da2719a7a63f49939756f303273cb
-  - enabled: 1
-    path: Assets/YourGame/Scenes/CharacterCreation.unity
-    guid: f48ca957bc74c39459a6c521c4f0b8a0
+    path: Assets/YourGame/Scenes/GameMenu.unity
+    guid: fa1fad9ccd5326e4abf9e124ffc91e38
   - enabled: 1
     path: Assets/YourGame/Scenes/BeginnerArea.unity
     guid: caabd950557caa541b4e3619db1036b8
